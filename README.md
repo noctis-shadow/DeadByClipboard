@@ -15,4 +15,8 @@ This Python program allows you to use the clipboard in the game Dead by Daylight
 - Project optimization
 - Add the compiled version of the program to releases
 
+## Known Issues
+- In cases of compilation, Windows Defender and some other antivirus applications may report a threat. This may be related to the libraries used to compile the application.
+
+
 > **_NOTE:_** This is my first public plan program, do not judge strictly.
