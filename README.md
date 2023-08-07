@@ -9,3 +9,5 @@ This Python program allows you to use the clipboard in the game Dead by Daylight
 1. Start the Dead by Daylight game.
 2. Run the `DeadByClipboard.py` script in the project directory.
 3. Press Ctrl+V to paste the copied item in the game.
+
+> **_NOTE:_** This is my first public plan program, do not judge strictly.
