@@ -1,4 +1,4 @@
-# Dead by Clipboard
+# Dead by Clipboard [[EN](README.md) | [RU](README.ru.md)]
 This Python program allows you to use the clipboard in the game Dead by Daylight. It uses the `pyperclip` library to perform clipboard operations on Windows.
 
 ## Installation
